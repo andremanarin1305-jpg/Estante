@@ -1,0 +1,20 @@
+{
+	"appId": "br.com.escritossantaangela.app",
+	"appName": "Escritos de Santa Ângela",
+	"webDir": "www",
+	"backgroundColor": "#EEF0EC",
+	"android": {
+		"backgroundColor": "#EEF0EC"
+	},
+	"plugins": {
+		"SystemBars": {
+			"insetsHandling": "css",
+			"style": "LIGHT"
+		},
+		"SplashScreen": {
+			"launchShowDuration": 600,
+			"backgroundColor": "#EEF0EC",
+			"showSpinner": false
+		}
+	}
+}
